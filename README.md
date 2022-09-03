@@ -16,6 +16,7 @@ Features:
 3. Time and Space complexity of algorithm being visualized.
 
 # Demo
-
 https://user-images.githubusercontent.com/96113485/188258591-411ae693-4196-4b72-9f3e-664daf0d5ef7.mp4
+
+https://user-images.githubusercontent.com/96113485/188258865-bac8b17b-0b10-4946-a560-aefb3120acc6.mp4
 
